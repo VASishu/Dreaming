@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6B2A1ECD-431F-BF88-BA84-7683CF8C94E1}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Text3D",
+			"Enabled": true
+		}
+	]
+}
